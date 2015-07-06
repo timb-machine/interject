@@ -1,0 +1,16 @@
+To install:
+
+1) Check you have the following installed:
+   - POE (libpoe-perl package under GNU/Debian)
+   - Socker (part of the standard Perl distribution)
+2) Make sure interject.pl is executable (chmod u+s
+   interject.pl)
+
+For each Interject module, to install:
+
+1) cd <module name>
+2) perl Makefile.PL
+3) make
+4) make install
+
+The latest version of Interject can always be found at <http://www.interject.pl/>.

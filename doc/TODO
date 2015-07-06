@@ -1,0 +1,11 @@
+Proxies:
+
+* Write the following proxies:
+  Interject::Proxy::SSL
+  Interject::Proxy::SOCKS
+  Interject::Proxy::HTTP
+
+Filters:
+
+* Write the following filters:
+  Interject::Filter::DumbFuzz
